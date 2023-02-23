@@ -6,7 +6,7 @@ This project is inspired by Javascript Mastery course on youtube
 
 ## Link
 
-[Hoo Bank App click here ](https://hoo-bank-rose-nine.vercel.app/)
+To visit [Hoo Bank App click here ](https://hoo-bank-rose-nine.vercel.app/)
 
 
 ![](https://github.com/riyazpt/Monster-Slayer-Game/blob/main/images/hoo-bank.png)
