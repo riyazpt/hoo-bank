@@ -9,7 +9,7 @@ This project is inspired by Javascript Mastery course on youtube
 [Hoo Bank App click here ](https://hoo-bank-rose-nine.vercel.app/)
 
 
-![](https://github.com/riyazpt/hoo-bank/images/hoo-bank.png)
+![](https://github.com/riyazpt/hoo-bank/tree/main/public/hoo-bank.png)
 
 ## How to run locally
 
