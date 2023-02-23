@@ -8,8 +8,8 @@ This project is inspired by Javascript Mastery course on youtube
 
 [Hoo Bank App click here ](https://hoo-bank-rose-nine.vercel.app/)
 
-##App
-![](https://github.com/riyazpt/hoo-bank/tree/main/public/hoo-bank.png)
+
+![](https://github.com/riyazpt/Monster-Slayer-Game/blob/main/images/hoo-bank.png)
 
 ## How to run locally
 
@@ -22,4 +22,4 @@ This project is inspired by Javascript Mastery course on youtube
 
 - [https://nextjs.org/] - nextjs for web apps!
 - [https://reactjs.org/] - ReactJs!
--
+
